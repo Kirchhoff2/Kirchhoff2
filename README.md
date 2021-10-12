@@ -1,16 +1,22 @@
-### Hi there 👋
+## Salve Salve! Esse sou eu
 
-<!--
-**Kirchhoff2/Kirchhoff2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 Estudando automação com arduino 
+- 📫 Contate-me no email: gustavoconttatto@gmail.com 
+- 😄 Pronomes: ele/dele
+
+<div align="center">
+  <a href="https://github.com/Kirchhoff2">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kirchhoff2&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kirchhoff2&layout=compact&langs_count=7&theme=blue-green"/>
+</div>
+
+ <div style="display: inline_block"><br>
+  <img align="center" alt="Kirch-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Kirch-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Kirch-arduino" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" /> 
+  <img align="center" alt="Kirch-C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg">
+  <img align="right" alt="Kirch-pic" height="150" style="border-radius:50px;" src="">
+   
+</div>
