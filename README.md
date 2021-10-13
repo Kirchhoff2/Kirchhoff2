@@ -4,7 +4,6 @@
 
 - 🌱 Estudando automação com arduino 
 - 📫 Contate-me no email: gustavoconttatto@gmail.com 
-- 😄 Pronomes: ele/dele
 
 <div align="center">
   <a href="https://github.com/Kirchhoff2">
