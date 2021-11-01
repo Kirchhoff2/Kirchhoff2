@@ -16,6 +16,5 @@
   <img align="center" alt="Kirch-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Kirch-arduino" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" /> 
   <img align="center" alt="Kirch-C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg">
-  <img align="right" alt="Kirch-pic" height="150" style="border-radius:50px;" src="">
-   
+  <img align="right" alt="Kirch-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/787832441246580746/904806048693645312/Big_Cranio_20211101091114.png?width=321&height=428">
 </div>
